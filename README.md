@@ -1,42 +1,42 @@
-# Carolina Jackeline Lobo
+# Hola, soy Carolina 👋
 
-Desarrolladora de software con sólida formación técnica y experiencia práctica en el ciclo de vida de desarrollo de sistemas. Enfocada en la creación de soluciones eficientes, escalables y orientadas a la resolución de problemas reales.
+Desarrolladora de software junior en Buenos Aires, Argentina. Técnica en Programación (ET N°36) con base en electrónica (ET N°28). Me interesa construir productos web full stack y automatizar tareas con Python. **Estoy buscando mi primera experiencia laboral** como desarrolladora.
 
-## Stack Tecnológico
+## Stack
 
-| Área | Tecnologías |
-| :--- | :--- |
-| **Backend** | Java, MySQL, PostgreSQL |
-| **Frontend** | JavaScript, React, HTML5, CSS3 |
-| **Herramientas** | Git, VS Code, Audacity |
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Proyectos Destacados
+## Proyectos destacados
 
-* **Sistema de Gestión Inmobiliaria:** Aplicación desarrollada con React, JavaScript y MySQL para la administración integral de alquileres, listings y procesamiento de pagos.
-* **Sistema de Domótica Residencial:** Prototipo de automatización del hogar diseñado en Tinkercad, utilizando microcontroladores ESP32 para el control y monitoreo de dispositivos.
-**Calculadora de Rutas Logísticas:** Aplicación de escritorio desarrollada en Python (Tkinter) para la optimización de entregas. Integra APIs de geocodificación (Nominatim), trazado vial (OSRM) y datos meteorológicos (Open-Meteo) para calcular rutas eficientes con alertas en tiempo real sobre tráfico y condiciones climáticas.
-* **Plataforma de Prevención Hídrica (Proyecto de Concientización):** Sistema diseñado bajo el marco de los ODS de las Naciones Unidas. Enfocado en la visualización de riesgos ambientales y sanitarios en el Río de la Plata, integrando mapeo interactivo y protocolos de prevención comunitaria (Semáforo de alertas ambientales).
+| Proyecto | Qué resuelve | Stack |
+|---|---|---|
+| [**lobo-alquileres**](https://github.com/lobocarolinael36-boop/lobo-alquileres) | SaaS multi-tenant para gestionar alquileres, listings y pagos. | Spring Boot 3, React, TypeScript, PostgreSQL |
+| [**AdministraciondeGastos**](https://github.com/lobocarolinael36-boop/AdministraciondeGastos) | Bot con lenguaje natural (Gemini) que registra gastos del hogar y genera resúmenes financieros. | JavaScript, MySQL, Gemini API |
+| [**AEGIS-Urban**](https://github.com/lobocarolinael36-boop/AEGIS-Urban) | Proyecto urbano en TypeScript. *(completar con una línea del problema que resuelve)* | TypeScript |
+| [**GymConnect**](https://github.com/lobocarolinael36-boop/Proyecto-II-GymConnect) | Plataforma que convierte un gimnasio en una red social fitness: reservas de clases, perfiles y feed. | JavaScript, full stack |
+| [**AppdeAhorro**](https://github.com/lobocarolinael36-boop/AppdeAhorro) | App móvil de ahorro con presupuesto por sobres y ubicación compartida en pareja. | Swift, SwiftUI, MVVM |
 
-## Formación Académica
+## Además
 
-* **Técnica en Programación:** ET N°36 Almirante Brown.
-* **Formación Técnica Inicial:** ET N°28 Republica Francesa (Electrónica).
+- 🚚 Sistema de despacho logístico seguro en CABA: APIs de geocodificación, ruteo (OSRM) y clima (Open-Meteo), en Python.
+- 🌊 Plataforma de prevención hídrica alineada a los ODS de la ONU, con mapeo interactivo y alertas ambientales.
+- 🔌 Prototipo de domótica residencial con ESP32.
 
-## Áreas de Interés y Especialización
+## Formación continua
 
-* Desarrollo de software backend/frontend
-* Gestión de bases de datos relacionales.
-* Automatización de tareas y creación de herramientas de red.
-
-
-## Formación Continua
-
-* **Idioma:** Inglés (en proceso de perfeccionamiento orientado al ámbito IT).
-* **Calidad de Software:** Conocimientos en modelos de calidad (McCall) y estándares ISO (12207, 25010, 27001).
+- Inglés técnico, en proceso de perfeccionamiento para el ámbito IT.
+- Calidad de software: modelo McCall y normas ISO 12207, 25010 y 27001.
 
 ## Contacto
 
-* [LinkedIn](https://linkedin.com/in/carolina-lobo-469705297)
-* [GitHub](https://github.com/lobocarolinael36-boop)
-* Email: lobocarolina99@gmail.com
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-lobo-469705297)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lobocarolina99@gmail.com)
