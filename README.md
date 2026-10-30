@@ -20,7 +20,7 @@ Desarrolladora de software junior en Buenos Aires, Argentina. Técnica en Progra
 | Proyecto | Qué resuelve | Stack |
 |---|---|---|
 | [**lobo-alquileres**](https://github.com/carolinalobo-dev/lobo-alquileres) | SaaS multi-tenant para gestionar alquileres, listings y pagos. | Spring Boot 3, React, TypeScript, PostgreSQL |
-| [**AdministraciondeGastos**](https://github.com/carolinalobo-dev/AdministraciondeGastos) | Bot con lenguaje natural (Gemini) que registra gastos del hogar y genera resúmenes financieros. | JavaScript, MySQL, Gemini API |
+| [**AdministraciondeGastos**](https://github.com/carolinalobo-dev/AdministraciondeGastos) | Bot de Telegram con IA (OpenAI/Gemini) que entiende mensajes en lenguaje natural, registra gastos del hogar y genera resúmenes. | Node.js, MySQL, Telegram Bot API, OpenAI/Gemini |
 | [**AEGIS-Urban**](https://github.com/carolinalobo-dev/AEGIS-Urban) | Proyecto urbano en TypeScript. *(completar con una línea del problema que resuelve)* | TypeScript |
 | [**GymConnect**](https://github.com/carolinalobo-dev/Proyecto-II-GymConnect) | Plataforma que convierte un gimnasio en una red social fitness: reservas de clases, perfiles y feed. | JavaScript, full stack |
 | [**AppdeAhorro**](https://github.com/carolinalobo-dev/AppdeAhorro) | App móvil de ahorro con presupuesto por sobres y ubicación compartida en pareja. | Swift, SwiftUI, MVVM |
